@@ -1,7 +1,14 @@
 ## Hi there 👋
-📫 Send me an email [![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koraym.yatagan@gmail.com)
+- I am a research assistant in METU (Ankara, Turkey) with Master's Degree in Mechanical Engineering.
+- The key courses I have taken are
+  - Advanced Dynamics,
+  - Principles of Robotics,
+  - Modern Control.
+- 🔭 I’m currently working on my second publication on the musculoskeletal modelling of the human finger.
+- 📖 You can find my first publication [here](https://journals.sagepub.com/doi/full/10.1177/17531934231160382).
+- 📫 Send me an email [![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koraym.yatagan@gmail.com)
+- :handshake: Connect me on [![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/koray-melih-yatagan-7a355762)
 
-:handshake: Connect me on [![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/koray-melih-yatagan-7a355762)
 <!--
 **koraymelih/koraymelih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
